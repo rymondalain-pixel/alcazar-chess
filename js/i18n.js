@@ -88,7 +88,7 @@ AC.i18n = (function () {
       { title: 'Group timing & punctuality', items: [
         'Format: 12 rounds in total over 4 weeks (every Sunday), 3 rounds each Sunday — Swiss system by points, not knockout.',
         'Group A (12 players) and Group B (12 players): 24 players maximum.',
-        'When Group A finishes its last game of the 3rd round and the arbiter has recorded the results, Group A players must vacate their seats within 10 minutes  so Group B can sit and play.',
+        'When Group A finishes its last game and the arbiter has recorded the results, Group A players must vacate their seats within 10 minutes  so Group B can sit and play.',
         'Late arrival: once the match has started, every minute of delay is deducted from the late player’s clock. Failing to show up counts as a loss and the opponent is awarded 1 point.'] },
       { title: 'Subscription & refunds (25 DH per day / 100 DH full tournament)', items: [
         'Subscription: 25 DH for a single day, or 100 DH for the full tournament.',
@@ -206,7 +206,7 @@ AC.i18n = (function () {
       { title: 'Horaires des groupes et ponctualité', items: [
         'Format : 12 rondes au total sur 4 semaines (chaque dimanche), 3 rondes par dimanche — système suisse aux points, pas d’élimination directe.',
         'Groupe A (12 joueurs) et groupe B (12 joueurs) : 24 joueurs maximum.',
-        'Quand le groupe A termine sa dernière partie de la 3e ronde et que l’arbitre a enregistré les résultats, les joueurs du groupe A doivent libérer leurs places sous 10 minutes  pour que le groupe B puisse s’installer et jouer.',
+        'Quand le groupe A termine sa dernière partie et que l’arbitre a enregistré les résultats, les joueurs du groupe A doivent libérer leurs places sous 10 minutes  pour que le groupe B puisse s’installer et jouer.',
         'Retard : une fois la partie lancée, chaque minute de retard est déduite de la pendule du joueur en retard. Ne pas se présenter = défaite, et l’adversaire reçoit 1 point.'] },
       { title: 'Inscription et remboursements (25 DH par jour / 100 DH le tournoi complet)', items: [
         'Inscription : 25 DH pour une journée, ou 100 DH pour le tournoi complet.',
@@ -324,7 +324,7 @@ AC.i18n = (function () {
       { title: 'توقيت المجموعات والالتزام بالمواعيد', items: [
         'نظام البطولة: 12 جولة في المجموع على مدى 4 أسابيع (كل يوم أحد)، 3 جولات كل أحد — بالنظام السويسري حسب النقاط وليس الإقصاء المباشر.',
         'المجموعة A (12 لاعباً) والمجموعة B (12 لاعباً): بحد أقصى 24 لاعباً.',
-        'عندما تنهي المجموعة A آخر مباراة في الجولة الثالثة ويسجّل الحكم النتائج، على لاعبي المجموعة A إخلاء مقاعدهم خلال 10 دقائق  ليتمكن لاعبو المجموعة B من الجلوس واللعب.',
+        'عندما تنهي المجموعة A آخر مباراة  ويسجّل الحكم النتائج، على لاعبي المجموعة A إخلاء مقاعدهم خلال 10 دقائق  ليتمكن لاعبو المجموعة B من الجلوس واللعب.',
         'التأخر: بعد انطلاق المباراة يُخصم من ساعة اللاعب المتأخر كل دقيقة تأخير. وعدم الحضور يُحتسب خسارة ويحصل الخصم على نقطة واحدة.'] },
       { title: 'الاشتراك والاسترجاع (25 درهماً لليوم / 100 درهم للبطولة كاملة)', items: [
         'الاشتراك: 25 درهماً لليوم الواحد، أو 100 درهم للبطولة كاملة.',
